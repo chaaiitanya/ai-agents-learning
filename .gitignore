@@ -1,3 +1,4 @@
+# Python
 .env
 __pycache__/
 *.pyc
@@ -8,4 +9,37 @@ venv/
 data/
 *.db
 *.sqlite
+
+# macOS
 .DS_Store
+.Trash/
+
+# Tool & editor configs
+.claude.json
+.claude/
+.cursor/
+.codex/
+.gemini/
+.config/
+.cache/
+.local/
+.npm/
+.ollama/
+.cups/
+.zsh_history
+.zsh_sessions/
+.zshrc
+.zshrc.save
+.zprofile
+.CFUserTextEncoding
+
+# macOS system folders
+Applications/
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/

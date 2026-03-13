@@ -1,0 +1,15 @@
+.DS_Store
+
+# Local projects not tracked in this repo
+farview/
+langchain_examples/
+marse_project/
+rag-project/
+Modelfile
+
+# Editor / tool configs
+.claude/
+.cursor/
+
+# macOS
+.DS_Store
